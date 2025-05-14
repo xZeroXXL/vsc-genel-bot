@@ -1,7 +1,6 @@
 @echo off
 color 0a
 title Oxy Presents - Setup
-chcp 65001 >nul
 
 :secim
 cls
