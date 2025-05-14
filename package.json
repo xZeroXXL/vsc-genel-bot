@@ -1,0 +1,32 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord.js v14 Bot with Slash Commands",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "boxen": "^7.1.1",
+    "canvas": "^2.11.2",
+    "cfonts": "^3.3.0",
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.3",
+    "console-table-printer": "^2.11.1",
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.14.1",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^2.0.2",
+    "moment": "^2.30.1",
+    "moment-duration-format": "^2.3.2",
+    "ora": "^7.0.1",
+    "os": "^0.1.2",
+    "sharp": "^0.33.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

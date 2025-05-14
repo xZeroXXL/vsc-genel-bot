@@ -1,0 +1,16 @@
+{
+    "token": "tokenin",
+    "log": "logkanali-yenisunucuyaeklendigindefelanatılıcakkanalid",
+    "sahip": "seninid",
+    "desteksunucusu": "https://discord.gg/vsc",
+    "bot-davet": "botdaveti",
+    "bot-adi": "Vsc Genel Bot",
+    "clientId": "clientid",
+    "mesajXp": 1,
+    "sesXp": 2,
+    "levelXp": 99,
+    "embedColor": "#5865F2",
+    "errorColor": "#ED4245",
+    "successColor": "#57F287",
+    "footer": "📊 discord.gg/vsc"
+  }
