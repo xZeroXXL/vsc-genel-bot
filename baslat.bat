@@ -1,6 +1,6 @@
 @echo off
 color 06
-title Oxy Presents
+title Oxy Presents - Run
 chcp 65001 >nul
 echo Bot Basliyor...
 node .

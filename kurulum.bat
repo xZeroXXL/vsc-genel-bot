@@ -5,11 +5,6 @@ chcp 65001 >nul
 
 :secim
 cls
-echo  ▄▄▄  ▄   ▄ ▄   ▄ 
-echo █   █  ▀▄▀  █   █ 
-echo ▀▄▄▄▀ ▄▀ ▀▄  ▀▀▀█ 
-echo             ▄   █ 
-echo              ▀▀▀  
 echo config dosyasini doldurdugunuzu onayliyor musunuz? (E/H)
 set /p onay=E/H: 
 if /I "%onay%"=="E" goto bilgilendirme
