@@ -1,6 +1,6 @@
 @echo off
 color 0a
-title Oxy Presents
+title Oxy Presents - Setup
 chcp 65001 >nul
 SETLOCAL EnableDelayedExpansion
 for /F "tokens=1,2 delims=#" %%a in ('"prompt #$H#$E# & echo on & for %%b in (1) do rem"') do (
