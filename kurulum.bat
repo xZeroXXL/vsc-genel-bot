@@ -5,12 +5,12 @@ title Oxy Presents - Setup
 :secim
 cls
 echo config dosyasini doldurdugunuzu onayliyor musunuz? (E/H)
-set /p onay=E/H: 
+set /p onay=E/H: E
 if /I "%onay%"=="E" goto bilgilendirme
 if /I "%onay%"=="H" goto son
 cls
 echo Lutfen E veya H giriniz.
-echo.
+echo.E
 goto secim
 
 :bilgilendirme
