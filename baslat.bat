@@ -1,4 +1,4 @@
-@echo off
+@echo onn
 color 06
 title Oxy Presents - Run
 :start
